@@ -11,3 +11,5 @@ There are many variations and uses of license plate readers such as those used a
 As with the genesis of many interesting ideas; we start by identifying a dearth in a niche market. Through our research we found little to no models license plate detection focused on a view from a dash cam. The number of people with dash cams is growing and with that so does the need to efficiently identify information from those cameras.
 
 Our group has focused on creating and training a model best for the angle commonly found in vehicle dash cams. In dash cam license plate detection, unlike other uses, both the subject and the camera are in motion. This is represented both in the model we have created and the data we have used to train that model. The data consists of head on shots of license plates common in dash cams and many instances where the subject and camera are both in motion.
+
+[image](https://user-images.githubusercontent.com/54340064/116956220-b21dc500-ac62-11eb-960a-e636a8a850bb.png)
